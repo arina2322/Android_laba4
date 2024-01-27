@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stations">
+        <item>Уручье</item>
+        <item>Борисовский тракт</item>
+        <item>Восток</item>
+        <item>Парк Челюскинцев</item>
+        <item>Академия наук</item>
+        <item>Площадь Якуба Колоса</item>
+        <item>Институт Культуры</item>
+        <item>Грушевка</item>
+        <item>Михалово</item>
+        <item>Петровщина</item>
+        <item>Малиновка</item>
+        <item>Каменная Горка</item>
+        <item>Куцевщина</item>
+        <item>Спортивная</item>
+        <item>Молодёжная</item>
+        <item>Фрунзенская</item>
+        <item>Немига</item>
+        <item>Купаловская</item>
+        <item>Тракторный завод</item>
+        <item>Автозаводская</item>
+        <item>Могилёвская</item>
+    </string-array>
+</resources>
